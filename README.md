@@ -1,5 +1,7 @@
 # Marriage Eligibility_predictor
 Deployment url : https://chitra2445-eligibility-predictor-eligible-s5rusf.streamlit.app/
+
+
 The marriage eligibility predictor takes four input features: name, age, country, and gender. Based on these inputs, the model performs a binary classification, determining whether an individual is eligible or not eligible for marriage.
 I experimented with three different algorithms for this classification task:
 Decision Tree: 86.27 % accuracy
